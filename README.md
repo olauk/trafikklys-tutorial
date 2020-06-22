@@ -12,7 +12,7 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Tutorials
 
-* [tutorial] (/tutorial)
+* [tutorial](trafikklys-tutorial/tutorial)
 
 ## Edit this project ![Bygg statusmerke](https://github.com/olauk/trafikklys-tutorial/workflows/MakeCode/badge.svg)
 
