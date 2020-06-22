@@ -1,8 +1,12 @@
 # Trafikklys lyssekvens
+## Introduksjon @fullscreen
+
+Nå skal vi lage et program som styrer led-dioder som er koblet til micro:bit slik at vi får et trafikklys som lyser i rikigt rekkefølge.
+![Trafikklys](https://github.com/olauk/trafikklys-tutorial/trafikklys.jpg)
 
 ## Step 1
 
-Nå skal vi lage et program som styrer led-dioder som er koblet til micro:bit. Vi vil koble rød LED til pin 0. For å skru på den røde led-dioden må vi da skru på strømmen i pin 0. Dette gjør vi med blokken ``||pins:skriv digital til||`` Denne blokken finner du i kategorien Tilkoblinger. Plasser blokken i ``||basic:gjenta for alltid||`` Vi velger P0 for pin 0 og gir blokken verdi 1 som betyr strøm på. 
+ Vi vil koble rød LED til pin 0. For å skru på den røde led-dioden må vi da skru på strømmen i pin 0. Dette gjør vi med blokken ``||pins:skriv digital til||`` Denne blokken finner du i kategorien Tilkoblinger. Plasser blokken i ``||basic:gjenta for alltid||`` Vi velger P0 for pin 0 og gir blokken verdi 1 som betyr strøm på. 
 
 ```blocks
 basic.forever(function () {
