@@ -10,6 +10,10 @@ This repository can be added as an **extension** in MakeCode.
 * klikk på **Utvidelser** i menyen under tannhjulet
 * søk etter **https://github.com/olauk/trafikklys-tutorial** og importér
 
+## Tutorials
+
+* [tutorial] (/tutorial)
+
 ## Edit this project ![Bygg statusmerke](https://github.com/olauk/trafikklys-tutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
