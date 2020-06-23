@@ -2,7 +2,7 @@
 ## Introduksjon @fullscreen
 
 Nå skal vi lage et program som styrer led-dioder som er koblet til micro:bit slik at vi får et trafikklys som lyser i rikigt rekkefølge.
-![Trafikklys](https://github.com/olauk/trafikklys-tutorial/trafikklys.jpg)
+![Trafikklys](https://github.com/olauk/trafikklys-tutorial/blob/static/trafikklys.JPG)
 
 ## Step 1
 
